@@ -12,7 +12,7 @@ import (
 
 func RegisterRoute(r *gin.Engine, trans ut.Translator) error {
 	// 公共模块
-	r.LoadHTMLGlob("./html/*")
+	r.LoadHTMLGlob("./static/html/*")
 	r.StaticFS("/static", http.Dir("./static"))
 	r.NoRoute(common.New().NoRoute)
 	r.NoMethod(common.New().NoRoute)
