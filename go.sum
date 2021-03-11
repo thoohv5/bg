@@ -151,6 +151,8 @@ github.com/stretchr/testify v1.6.1/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/
 github.com/stvp/tempredis v0.0.0-20181119212430-b82af8480203/go.mod h1:oqN97ltKNihBbwlX8dLpwxCl3+HnXKV/R0e+sRLd9C8=
 github.com/thoohv5/gf v0.0.2 h1:JSu8xxQZX5dnG3jdXBLsup1vWyxJULNq1UzbUs38rhU=
 github.com/thoohv5/gf v0.0.2/go.mod h1:wfkvYY+UJbZ+InPE5/H76GFKGEqnDrFEcRzcpnbfaZE=
+github.com/thoohv5/gf v0.0.3-0.20210311130715-91d0c2e61bfb h1:1BDP9y71/VM9np8qCMlJc3OurDIM4zq9LV42RvO2cL8=
+github.com/thoohv5/gf v0.0.3-0.20210311130715-91d0c2e61bfb/go.mod h1:wfkvYY+UJbZ+InPE5/H76GFKGEqnDrFEcRzcpnbfaZE=
 github.com/uber/jaeger-client-go v2.25.0+incompatible h1:IxcNZ7WRY1Y3G4poYlx24szfsn/3LvK9QHCq9oQw8+U=
 github.com/uber/jaeger-client-go v2.25.0+incompatible/go.mod h1:WVhlPFC8FDjOFMMWRy2pZqQJSXxYSwNYOkTr/Z6d3Kk=
 github.com/uber/jaeger-lib v2.4.0+incompatible h1:fY7QsGQWiCt8pajv4r7JEvmATdCVaWxXbjwyYwsNaLQ=

@@ -8,6 +8,6 @@ require (
 	github.com/go-playground/universal-translator v0.17.0
 	github.com/grpc-ecosystem/grpc-gateway v1.16.0
 	github.com/russross/blackfriday/v2 v2.1.0
-	github.com/thoohv5/gf v0.0.2
+	github.com/thoohv5/gf v0.0.3-0.20210311130715-91d0c2e61bfb
 	google.golang.org/grpc v1.34.0
 )
